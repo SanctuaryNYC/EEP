@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Site powered by [Jekyll](http://jekyllrb.com/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Hosted on [Github](https://github.com)
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+Inspired by [t413](http://t413.com/)
